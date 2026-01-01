@@ -28,8 +28,8 @@ Push Discord Bot - Lock one user
 # Input
 channel_id = input("Masukkan ID channel: ")
 waktu_kirim = int(input("Set Waktu Kirim Pesan (detik): "))
-MY_USER_ID = "1416495302143119452"
-TARGET_USER_ID = "1224798953371992208"
+MY_USER_ID = "PASTE ID KALIAN DISINI"
+TARGET_USER_ID = "PASTE ID TARGET DISINI"
 
 # Clear screen
 os.system('clear')
