@@ -39,6 +39,10 @@ nano pesan.txt
 ```bash
 nano main.py
 ```
+Cari Code: 
+MY_USER_ID = "PASTE ID LO DISINI"
+TARGET_USER_ID = "PASTE ID TARGET DISINI"
+paste sesuai
 ```bash
 python main.py
 ```
