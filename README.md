@@ -39,6 +39,9 @@ nano pesan.txt
 ```bash
 nano main.py
 ```
+```bash
+python main.py
+```
 
 simple discord auto-reply bot for leveling and xp grinding
 
